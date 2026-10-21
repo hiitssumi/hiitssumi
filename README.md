@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/hiitssumi.svg?label=Profile%20Views&color=8b5cf6&style=flat-square" alt="profile views" />
+  <img src="https://hits.sh/github.com/hiitssumi.svg?label=Profile%20Views&color=1f45ff&style=flat-square" alt="profile views" />
 </p>
 
 I'm **Mousumi Baidya**, a developer from **Kolkata, India** working on **Web3 and AI**.
@@ -61,8 +61,8 @@ A scroll-story portfolio in pixel-art style, with a retro **"sumi 98"** desktop 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hiitssumi&show_icons=true&include_all_commits=true&hide_border=true&title_color=a78bfa&icon_color=f0abfc&text_color=c4b5fd&bg_color=1b1435" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiitssumi&layout=compact&langs_count=6&hide_border=true&title_color=a78bfa&text_color=c4b5fd&bg_color=1b1435" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=hiitssumi&show_icons=true&include_all_commits=true&hide_border=true&title_color=1f45ff&icon_color=1f45ff&text_color=0b0b0b&bg_color=f3f3ef" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiitssumi&layout=compact&langs_count=6&hide_border=true&title_color=1f45ff&text_color=0b0b0b&bg_color=f3f3ef" height="165" />
 
 </div>
 
