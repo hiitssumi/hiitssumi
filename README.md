@@ -31,7 +31,7 @@ I've been building since 2025, and I build in public.
 `Python` · `Django` · `scikit-learn` · `pandas` · `Tesseract OCR` · `RapidFuzz` · `PostgreSQL` · `pytest`
 
 ### [Portfolio](https://github.com/hiitssumi/Portfolio) · [Live](https://hiitssumi.vercel.app)
-A scroll-story portfolio in pixel-art style, with a retro **"sumi 98"** desktop of draggable windows, sound and easter eggs.
+A scroll-story portfolio in pixel-art style, with a retro **"sumi 2000"** desktop of draggable windows, sound and easter eggs.
 
 `Next.js 15` · `TypeScript` · `Tailwind v4` · `GSAP` · `Lenis`
 
