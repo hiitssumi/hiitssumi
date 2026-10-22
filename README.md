@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/hiitssumi.svg?label=Profile%20Views&color=1f45ff&style=flat-square" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hiitssumi.hiitssumi&left_text=Profile%20Views&left_color=%23555555&right_color=%231f45ff" alt="profile views" />
 </p>
 
 I'm **Mousumi Baidya**, a developer from **Kolkata, India** working on **Web3 and AI**.
